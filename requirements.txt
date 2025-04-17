@@ -1,0 +1,5 @@
+pyrtcm
+pygnssutils>=1.0.16
+pyubx2
+haversine
+pyproj
